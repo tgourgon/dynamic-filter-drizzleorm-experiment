@@ -1,0 +1,17 @@
+{
+  "name": "dynamic-filter-drizzleorm-experiment",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "@types/bun": "^1.2.12",
+    "drizzle-kit": "^0.31.1"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "@faker-js/faker": "^9.7.0",
+    "@libsql/client": "^0.15.4",
+    "drizzle-orm": "^0.43.1"
+  }
+}
